@@ -15,7 +15,7 @@ failure        = "0.1"
 failure_derive = "0.1"
 futures        = "0.1"
 http           = "0.1"
-hyper          = "0.12"
+hyper          = "0.14"
 hyper-tls      = "0.3"
 kbupd_api      = { path = "../kbupd_api" }
 kbupd_client   = { path = "../kbupd_client" }
