@@ -21,7 +21,7 @@ kbupd_api      = { path = "../kbupd_api" }
 kbupd_client   = { path = "../kbupd_client" }
 log            = { version = "0.4", features = ["std"] }
 native-tls     = "0.2"
-prost          = "0.5"
+prost          = "0.6"
 rand           = "0.6"
 ring           = "0.14"
 serde          = "1.0"

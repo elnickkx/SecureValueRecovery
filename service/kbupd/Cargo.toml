@@ -30,7 +30,7 @@ log              = { version = "0.4", features = ["std"] }
 nix              = "0.13"
 num-traits       = "0.2"
 num-derive       = "0.2"
-prost            = "0.5"
+prost            = "0.6"
 rand             = "0.6"
 ring             = "0.14"
 route-recognizer = "0.1"
